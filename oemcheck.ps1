@@ -1,4 +1,3 @@
-# Define the output file path on the network share
 $OutputFile = "\\path\to\file.csv"
 
 # Get licensing information from the local computer
